@@ -13,10 +13,7 @@
       "url": "https://mcp.walletfollow.ai/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "data:read",
-          "offline_access"
-        ]
+        "scopes": ["data:read", "offline_access"]
       }
     }
   ]
